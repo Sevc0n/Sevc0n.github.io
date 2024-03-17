@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Roba di Piccio](./another-page.html).
+[Console del Server Minecraft :p](https://sevcon.it).
 
 There should be whitespace between paragraphs.
 
