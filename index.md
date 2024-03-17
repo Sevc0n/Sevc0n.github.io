@@ -2,6 +2,9 @@
 layout: default
 ---
 
+Io mentre provo a capire come mettere tutta sta merda insieme:
+![Branching](./assets/images/me_while_im_making_this_shit.png)
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Console del Server Minecraft :p](https://sevcon.it).
@@ -94,7 +97,7 @@ end
 
 ### Small image
 
-![Octocat](./assets/images/sevcon_logo_quadrato.ong)
+![Octocat](./assets/images/sevcon_logo_quadrato.png)
 
 ### Large image
 
