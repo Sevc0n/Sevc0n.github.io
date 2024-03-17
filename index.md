@@ -3,7 +3,7 @@ layout: default
 ---
 
 Io mentre provo a capire come mettere tutta sta merda insieme:
-![Branching](./assets/images/me_while_im_making_this_shit.png)
+![bruh](./assets/images/me_while_im_making_this_shit.gif)
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
