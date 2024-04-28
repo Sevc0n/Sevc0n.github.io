@@ -2,30 +2,27 @@
 layout: default
 ---
 
-# Scopo Del Sito
-
-Questo sito è solo a scopo ludico e di arricchimento personale.
-
-## Come Contattarmi
-
-Ho molti mezzi di comunicazione, ma rispondo più facilmente a questi:
-
-[Telegram](https://t.me/picciobeffa).
-Discord: @picciobeffa
-
-
-##### Cose da Fare a Questo sito
-
-1.  sistemare i colori.
-2.  Capire bene come funzionano i redirect.
-3.  Spostare il sito sul dominio principale (sevcon.it).
-
-# AL DI SOTTO DELLA SEGUENTE LINEA CI SONO RIMASUGLI DEL TEMPLATE USATO
-* * *
-
 Io mentre provo a capire come mettere tutta sta merda insieme e farla funzionare decentemente:
 
 ![bruh](./assets/images/me_while_im_making_this_shit.gif)
+
+Text can be **bold**, _italic_, or ~~strikethrough~~.
+
+[Console del Server Minecraft :p](https://sevcon.it).
+
+There should be whitespace between paragraphs.
+
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+
+# Header 1
+
+This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
+## Header 2
+
+> This is a blockquote following a header.
+>
+> When something is important enough, you do it even if the odds are not in your favor.
 
 ### Header 3
 
@@ -43,6 +40,18 @@ GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
 ```
+
+#### Header 4
+
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+
+##### Header 5
+
+1.  This is an ordered list following a header.
+2.  This is an ordered list following a header.
+3.  This is an ordered list following a header.
 
 ###### Header 6
 
@@ -114,5 +123,5 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 
 ```
-[Console del Server Minecraft :p](https://sevcon.it).
+The final element.
 ```
