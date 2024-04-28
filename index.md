@@ -6,7 +6,7 @@ layout: default
 
 Questo sito è solo a scopo ludico e di arricchimento personale.
 
-## Come Contattarmi
+### Come Contattarmi
 
 Ho molti mezzi di comunicazione, ma rispondo più facilmente a questi:
 
@@ -14,7 +14,7 @@ Ho molti mezzi di comunicazione, ma rispondo più facilmente a questi:
 * Discord: @picciobeffa
 
 
-##### Cose da Fare a Questo sito
+### Cose da Fare a Questo sito
 
 1.  sistemare i colori.
 2.  Capire bene come funzionano i redirect.
