@@ -19,6 +19,7 @@ Ho molti mezzi di comunicazione, ma rispondo più facilmente a questi:
 1.  sistemare i colori.
 2.  Capire bene come funzionano i redirect.
 3.  Spostare il sito sul dominio principale (sevcon.it).
+4.  Sistemare gli errori di NodeJS
 
 # AL DI SOTTO DELLA SEGUENTE LINEA CI SONO RIMASUGLI DEL TEMPLATE USATO
 * * *
