@@ -10,8 +10,8 @@ Questo sito è solo a scopo ludico e di arricchimento personale.
 
 Ho molti mezzi di comunicazione, ma rispondo più facilmente a questi:
 
-[Telegram](https://t.me/picciobeffa).
-Discord: @picciobeffa
+* [Telegram](https://t.me/picciobeffa).
+* Discord: @picciobeffa
 
 
 ##### Cose da Fare a Questo sito
