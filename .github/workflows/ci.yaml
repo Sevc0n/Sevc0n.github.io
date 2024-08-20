@@ -18,10 +18,8 @@ jobs:
          node-version: '16'
 
       - name: Make bootstrap script executable
-        run: chmod -R +x script/
+        run: chmod +x script/*
       - name: build
         run: script/bootstrap
-      #- name: Make bootstrap script executable
-       # run: chmod +x script/cibuild
       - name: test
         run: script/cibuild
