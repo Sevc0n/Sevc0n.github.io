@@ -3,3 +3,6 @@ description: W.I.P.
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-midnight
+sass:
+  load_paths:
+    - _sass
