@@ -16,10 +16,12 @@ jobs:
         uses: actions/setup-node@v2
         with:
          node-version: '16'
-         
+
       - name: Make bootstrap script executable
         run: chmod +x script/bootstrap
       - name: build
         run: script/bootstrap
+      - name: Make bootstrap script executable
+        run: chmod +x script/cibuild
       - name: test
         run: script/cibuild
